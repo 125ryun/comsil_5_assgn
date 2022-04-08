@@ -2,6 +2,6 @@
 
 int main(void)
 {
-	printf( "This is file version of A.\n" );
+	printf( "This is file version of B.\n" );
 	return 0;
 }
